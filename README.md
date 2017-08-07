@@ -68,6 +68,6 @@ Complementando o tópico anterior, recomendamos aos espectadores dos cursos que 
 O curador / mantenedor tem todo o direito de se afastar de seu posto a qualquer momento, por qualquer motivo, sem que o mesmo seja lesado por isso. Entretanto, para que a qualidade do curso e da experiência de seus alunos seja mantida, recomendamos que:
 
 - o curador comunique através do README do repositório que irá se afastar da sua responsabilidade. Não é necessário dar maiores detalhes do motivo, mas espera-se que o mesmo informe se pretende retomar seu posto e dentro de quanto tempo;
-- apresente ou recomende um substituto. Neste caso, o substituto assume todas as responsabilidades deixadas por seu antcessor, inclusive por dúvidas e feedbacks feitos anteriormente.
+- apresente ou recomende um substituto. Neste caso, o substituto assume todas as responsabilidades deixadas por seu antecessor, inclusive por dúvidas e feedbacks feitos anteriormente.
 
 No caso de abandono do repositório (quando seu responsável não comunica sua saída nem responde quando procurado), seus espectadores têm o direito de decidir se o mesmo deverá continuar ativo, através de discussão/votação. Caso positivo, o curso passa a integrar a lista de "órfãos", e permanece nesse estado até que alguém se habilite a mantê-lo novamente. Caso negativo, ele passa a constar como "descontinuado", porém continuando disponível.
