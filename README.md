@@ -1,6 +1,6 @@
-# OpenSchool Brasil
+# Open School Brasil
 
-## Informações gerais sobre a OpenSchool
+## Informações gerais sobre a Open School
 
 - [Grupo no Slack](https://join.slack.com/t/openschoolbr/shared_invite/MjIyODQxMzI3MzM0LTE1MDE3OTIwMjktNDQwMWUxNmYwZQ)
 - [Siga-nos no Twitter](https://twitter.com/openschoolbr)
@@ -10,7 +10,7 @@
 
 - [Processo de criação de cursos](criacao_de_cursos.md)
 
-## Sobre a OpenSchool
+## Sobre a Open School
 
 Uma escola aberta, da comunidade, para a comunidade!
 
