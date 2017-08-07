@@ -13,3 +13,4 @@
 ## Sobre a OpenSchool
 
 Uma escola aberta, da comunidade, para a comunidade!
+
