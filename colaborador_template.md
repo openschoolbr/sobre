@@ -8,7 +8,7 @@ Template para cadastramento de perfis dos Colaboradores(as).
 
 Seu nome
 
-## Perfil
+## Biografia
 
 Alguma informação sobre você e seus projetos ou trabalhos
 
@@ -19,11 +19,14 @@ Alguma informação sobre você e seus projetos ou trabalhos
 * [Seu Twitter](link)
 * [Seu LinkedIn](link)
 
-## Gostaria colaborar em que área (veja as nossas áreas [aqui](#))?
+## Gostaria colaborar em que área (Selecione um tópico abaixo e apague os demais)?
 
 Writter: cria conteúdo para o Medium
 Mentor: leciona cursos
 Translator: traduz conteúdos (posts, legendas)
 Speaker: palestrante (caso a idéia da issue #17 aconteça)
-Organizer: pessoa do core da organização pra deixar tudo nos eixos (PRs, Moderação, Eventos)
+
+## Por que você gostaria de participar na área escolhida?
+
+Uma breve descrição das suas motivações para nos ajudar a saber mais sobre quem você é e o que te move.
 ```
