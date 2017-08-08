@@ -10,7 +10,7 @@ Seu nome
 
 ## Perfil
 
-Seu perfil profissional e alguma informação sobre você
+Alguma informação sobre você e seus projetos ou trabalhos
 
 ## Links
 
@@ -21,5 +21,9 @@ Seu perfil profissional e alguma informação sobre você
 
 ## Gostaria colaborar em que área (veja as nossas áreas [aqui](#))?
 
-Area x, Area y
+Writter: cria conteúdo para o Medium
+Mentor: leciona cursos
+Translator: traduz conteúdos (posts, legendas)
+Speaker: palestrante (caso a idéia da issue #17 aconteça)
+Organizer: pessoa do core da organização pra deixar tudo nos eixos (PRs, Moderação, Eventos)
 ```
