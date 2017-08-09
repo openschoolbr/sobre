@@ -19,7 +19,7 @@ Alguma informação sobre você e seus projetos ou trabalhos
 * [Seu Twitter](link)
 * [Seu LinkedIn](link)
 
-## Gostaria colaborar em que área (Selecione um tópico abaixo e apague os demais)?
+## Gostaria de colaborar em que área (Selecione um tópico abaixo e apague os demais)?
 
 Writter: cria conteúdo para o Medium
 Mentor: leciona cursos
