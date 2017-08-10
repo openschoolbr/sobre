@@ -2,6 +2,18 @@
 
 # Sobre o processo de criação de cursos
 
+<!-- TOC -->
+
+- [Sobre o processo de criação de cursos](#sobre-o-processo-de-criação-de-cursos)
+  - [Submissão de temas](#submissão-de-temas)
+  - [Escolha dos temas que se tornarão cursos](#escolha-dos-temas-que-se-tornarão-cursos)
+  - [Processo de revisão e garantia da qualidade para novos cursos](#processo-de-revisão-e-garantia-da-qualidade-para-novos-cursos)
+  - [Curadoria dos cursos ativos](#curadoria-dos-cursos-ativos)
+  - [Feedback e melhoria contínua dos cursos ativos](#feedback-e-melhoria-contínua-dos-cursos-ativos)
+  - [Descontinuação e transferência de responsabilidades](#descontinuação-e-transferência-de-responsabilidades)
+
+<!-- /TOC -->
+
 A Open School Brasil tem como objetivo disponibilizar, de maneira completamente gratuita e democrática, cursos relacionados à área de tecnologia da informação. Nós encorajamos a comunidade a participar ativamente em todas as fases da concepção dos cursos, desde a sugestão de temas até a curadoria e manutenção dos materiais.
 
 A fim de manter bons níveis de qualidade dos materiais publicados, bem como garantir a cooperação mútua entre nós da Open School Brasil e a comunidade, adotamos algumas diretrizes para garantir uma maior eficiência de todos os processos.
