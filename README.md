@@ -1,14 +1,11 @@
-# Open School Brasil
+<p align="center"><img src="https://github.com/openschoolbr/design/raw/master/src/png/black-vertical.png" width="150px" alt="Open School Brasil"></p>
+<h1 align="center">Sobre nós</h1>
+<p align="center">Uma escola aberta, da comunidade, para a comunidade!</p>
 
 ## Sumário
 
-- [Sobre a Open School Brasil](#sobre-a-open-school-brasil)
-- [Nossas redes](#nossas-redes)
 - [Como criar um curso?](#como-criar-um-curso)
-
-### Sobre a Open School Brasil
-
-Uma escola aberta, da comunidade, para a comunidade!
+- [Nossas redes](#nossas-redes)
 
 ### Como criar um curso?
 
