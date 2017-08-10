@@ -1,8 +1,9 @@
-# Regras de conduta para participantes dos projetos no OpenSchool Brasil
+# Código de Conduta
+Regras de conduta para participantes dos projetos da <strong>Open School Brasil</strong>
 
 Essas são as regras de conduta para que não aconteça nenhum transtorno por parte dos(as) envolvidos(as) em nossos projetos.
 
-O OpenSchool Brasil é um local aberto a todos e todos devem se sentir confortáveis participando de nossas iniciativas.
+A <strong>Open School Brasil</strong> é um local aberto a todos, e todos devem sentir-se confortáveis participando de nossas iniciativas.
 
 Não toleramos nenhum tipo de repúdio, humilhação ou discriminação por:
 
@@ -21,7 +22,7 @@ Como membro deste grupo, você concorda que:
 * Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão;
 * Nós adotamos a política de tolerância zero para assédios, perseguições ou discriminações;
 * Nós respeitamos limites, identidade e privacidade das pessoas;
-* Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes;
+* Nós nos abstemos de usar linguagem que possa ser considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este <strong>Código de Conduta</strong> não está limitado a apenas estes;
 * Nós evitamos tópicos ofensivos como forma de humor.
 
 Nós trabalhamos ativamente para:
