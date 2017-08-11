@@ -44,29 +44,16 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 - Publicações que não estiverem de acordo com este Código de Conduta serão removidas;
 - Cabe aos moderadores decidir se você será removido temporariamente ou permanentemente deste grupo.
 
-**Se você sofrer algum tipo de abuso, assédio, discriminação ou se sentir inseguro, fale com um moderador. Se o moderador for a pessoa que você quer reportar, fale com outro moderador.**
+**Se você sofrer algum tipo de abuso, assédio, discriminação ou se sentir inseguro, [fale com um moderador](https://github.com/openschoolbr/sobre/tree/master/perfis#pessoas-que-fazem-esta-comunidade-acontecer). Se o moderador for a pessoa que você quer reportar, fale com outro moderador.**
 
 *A posição de moderador é para fins de moderação imparcial; eles não vão moderar ou editar o conteúdo postado pelos membros do grupo para outras finalidades ou por motivos estritamente pessoais.*
-
-## Moderadores
-
-* [Aline Bastos](https://github.com/alinebastos)
-* [Fernando Moreira](https://github.com/nandomoreirame)
-* [Danilo Vaz](https://github.com/danilovaz)
-* [Jamile Lima](https://github.com/JamileLima)
-* [Karina Figueira](https://github.com/karinafigueira)
-* [Kevin Oliveira](https://github.com/kvnol)
-* [Laris. Mourullo](https://github.com/larismourullo)
-* [Lucas Santos](https://github.com/khaosdoctor)
-* [Luiz Felipe de Oliva Limeira](https://github.com/lflimeira)
-* [Rodrigo Muniz](https://github.com/muniz95)
-* [Wendell Adriel](https://github.com/WendellAdriel)
-* [William Correa](https://github.com/wilcorrea)
-* [William Oliveira](https://github.com/woliveiras)
-* [Yuri Oliveira](https://github.com/yuriploc)
 
 ---
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
 Código de conduta baseado em: https://github.com/fnando/codigo-de-conduta, https://github.com/AndroidDevBR/Codigo-De-Conduta
+
+## Licença
+
+MIT &copy; Open School Brasil
