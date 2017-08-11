@@ -24,11 +24,11 @@ Isto implica que, a qualquer momento, os times podem sofrer alterações, uma ve
 
 [![Aline Bastos](https://github.com/alinebastos.png?size=100)](colaboradores/alinebastos.md) | [![Kevin Oliveira](https://github.com/kvnol.png?size=100)](colaboradores/kvnol.md) | [![Larissa Mourullo](https://github.com/larismourullo.png?size=100)](colaboradores/larismourullo.md) | [![Lucas Santos](https://github.com/khaosdoctor.png?size=100)](colaboradores/khaosdoctor.md) | [![Luiz Felipe Limeira](https://github.com/lflimeira.png?size=100)](colaboradores/lflimeira.md) | [![Rodrigo Muniz](https://github.com/muniz95.png?size=100)](colaboradores/muniz95.md) |
 --- | --- | --- | --- | --- | --- |
-[Aline Bastos](https://github.com/alinebastos) | [Kevin Oliveira](https://github.com/kvnol) | [Larissa Mourullo](https://github.com/larismourullo) | [Lucas Santos](https://github.com/khaosdoctor) | [Luiz Felipe](https://github.com/lflimeira) | [Rodrigo Muniz](https://github.com/muniz95) |
+[Aline Bastos](https://github.com/alinebastos) | [Kevin Oliveira](https://github.com/kvnol) | [Larissa Mourullo](https://github.com/larismourullo) | [Lucas Santos](https://github.com/khaosdoctor) | [Luiz Felipe](https://github.com/lflimeira) | [Rodrigo Muniz](https://github.com/muniz95) | 
 
- [![Yuri Oliveira](https://github.com/yuriploc.png?size=100)](colaboradores/yuriploc.md) |
- --- |
- [Yuri Oliveira](https://github.com/yuriploc) |
+ [![Yuri Oliveira](https://github.com/yuriploc.png?size=100)](colaboradores/yuriploc.md) | [![Rafael Lage](https://github.com/rlage.png?size=100)](colaboradores/rlage.md)|
+ --- | --- |
+ [Yuri Oliveira](https://github.com/yuriploc) | [Rafael Lage](https://github.com/rlage)|
 
 ## Design Team
 
@@ -42,9 +42,9 @@ Isto implica que, a qualquer momento, os times podem sofrer alterações, uma ve
 
 > São os mestres que tiram cursos do papel e transformam em grandes aulas inspiradoras
 
-[![Larissa Mourullo](https://github.com/larismourullo.png?size=100)](colaboradores/larismourullo.md) | [![Rodrigo Muniz](https://github.com/muniz95.png?size=100)](colaboradores/muniz95.md) | [![William Correa](https://github.com/wilcorrea.png?size=100)](colaboradores/wilcorrea.md) | [![Yuri Oliveira](https://github.com/yuriploc.png?size=100)](colaboradores/yuriploc.md) |
---- | --- | --- | --- |
-[Larissa Mourullo](https://github.com/larismourullo) | [Rodrigo Muniz](https://github.com/muniz95) | [William Correa](https://github.com/wilcorrea) | [Yuri Oliveira](https://github.com/yuriploc) |
+[![Larissa Mourullo](https://github.com/larismourullo.png?size=100)](colaboradores/larismourullo.md) | [![Rodrigo Muniz](https://github.com/muniz95.png?size=100)](colaboradores/muniz95.md) | [![William Correa](https://github.com/wilcorrea.png?size=100)](colaboradores/wilcorrea.md) | [![Yuri Oliveira](https://github.com/yuriploc.png?size=100)](colaboradores/yuriploc.md) | [![Rafael Lage](https://github.com/rlage.png?size=100)](colaboradores/rlage.md)|
+--- | --- | --- | --- | --- |
+[Larissa Mourullo](https://github.com/larismourullo) | [Rodrigo Muniz](https://github.com/muniz95) | [William Correa](https://github.com/wilcorrea) | [Yuri Oliveira](https://github.com/yuriploc) | [Rafael Lage](https://github.com/rlage)|
 
 ## Editores
 
