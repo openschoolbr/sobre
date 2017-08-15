@@ -25,7 +25,7 @@ Uma escola aberta, da comunidade, para a comunidade!
 
 Se você tem alguma ideia de curso e quer leva-la para frente, veja nosso guia:
 
-- [Processo de criação de cursos](criacao_de_cursos.md)
+- [Processo de criação de cursos](processos/criacao_de_cursos.md)
 
 ### Quero ser um colaborador
 
